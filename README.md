@@ -8,21 +8,21 @@ Improvements over the previous version from : https://github.com/Xs4allWebTV/Doc
 The base URL of this version is https://webtv-api.xs4all.nl/2/
 ## Documented functions
 
-URL:https://webtv-api.xs4all.nl/2/doc/authenticate
-URL:https://webtv-api.xs4all.nl/2/doc/channel
-URL:https://webtv-api.xs4all.nl/2/doc/getcurrenttime
-URL:https://webtv-api.xs4all.nl/2/doc/kijkcijferexport
-URL:https://webtv-api.xs4all.nl/2/doc/kijkcijfers
-URL:https://webtv-api.xs4all.nl/2/doc/listallchannels
-URL:https://webtv-api.xs4all.nl/2/doc/listchannels
-URL:https://webtv-api.xs4all.nl/2/doc/listpackagechannels
-URL:https://webtv-api.xs4all.nl/2/doc/listpackages
-URL:https://webtv-api.xs4all.nl/2/doc/listvodchannels
-URL:https://webtv-api.xs4all.nl/2/doc/ping
-URL:https://webtv-api.xs4all.nl/2/doc/listvodchannels
-URL:https://webtv-api.xs4all.nl/2/doc/registerdevice
-URL:https://webtv-api.xs4all.nl/2/doc/remoteaddr
-URL:https://webtv-api.xs4all.nl/2/doc/video
+* URL:https://webtv-api.xs4all.nl/2/doc/authenticate
+* URL:https://webtv-api.xs4all.nl/2/doc/channel
+* URL:https://webtv-api.xs4all.nl/2/doc/getcurrenttime
+* URL:https://webtv-api.xs4all.nl/2/doc/kijkcijferexport
+* URL:https://webtv-api.xs4all.nl/2/doc/kijkcijfers
+* URL:https://webtv-api.xs4all.nl/2/doc/listallchannels
+* URL:https://webtv-api.xs4all.nl/2/doc/listchannels
+* URL:https://webtv-api.xs4all.nl/2/doc/listpackagechannels
+* URL:https://webtv-api.xs4all.nl/2/doc/listpackages
+* URL:https://webtv-api.xs4all.nl/2/doc/listvodchannels
+* URL:https://webtv-api.xs4all.nl/2/doc/ping
+* URL:https://webtv-api.xs4all.nl/2/doc/listvodchannels
+* URL:https://webtv-api.xs4all.nl/2/doc/registerdevice
+* URL:https://webtv-api.xs4all.nl/2/doc/remoteaddr
+* URL:https://webtv-api.xs4all.nl/2/doc/video
 
 # Functions
 (We Needs more documentation and options XS4All !) 
