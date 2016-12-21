@@ -1,13 +1,31 @@
 This version has been introduced at [date needed].
-Improvements over the previous version:
+Improvements over the previous version from : https://github.com/Xs4allWebTV/Documentation/wiki/WebTV-API
+
 * Support additional channels from supscription packages
-* Has been documented: https://webtv-api.xs4all.nl/2/doc
+* Has been documented: https://webtv-api.xs4all.nl/2/doc/doc
 * ...
 
 The base URL of this version is https://webtv-api.xs4all.nl/2/
+## Documented functions
+
+https://webtv-api.xs4all.nl/2/doc/authenticate
+https://webtv-api.xs4all.nl/2/doc/channel
+https://webtv-api.xs4all.nl/2/doc/getcurrenttime
+https://webtv-api.xs4all.nl/2/doc/kijkcijferexport
+https://webtv-api.xs4all.nl/2/doc/kijkcijfers
+https://webtv-api.xs4all.nl/2/doc/listallchannels
+https://webtv-api.xs4all.nl/2/doc/listchannels
+https://webtv-api.xs4all.nl/2/doc/listpackagechannels
+https://webtv-api.xs4all.nl/2/doc/listpackages
+https://webtv-api.xs4all.nl/2/doc/listvodchannels
+https://webtv-api.xs4all.nl/2/doc/ping
+https://webtv-api.xs4all.nl/2/doc/listvodchannels
+https://webtv-api.xs4all.nl/2/doc/registerdevice
+https://webtv-api.xs4all.nl/2/doc/remoteaddr
+https://webtv-api.xs4all.nl/2/doc/video
 
 # Functions
-(Needs more documentation)
+(We Needs more documentation and options XS4All !) 
 ## Metadata functions
 * authenticate    
 URL: https://webtv-api.xs4all.nl/2/authenticate
@@ -63,5 +81,4 @@ Keyword: jsonp
 Extra querystring parameter needed: callback=[desired javascript function]   
 Example url: https://webtv-api.xs4all.nl/2/listpackages.jsonp?callback=mycallbackfunction
 
-# To do:
-* What is the purpose of the underscore querystring parameter which is being used by the webtv app?
+
